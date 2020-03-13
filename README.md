@@ -1,2 +1,2 @@
-# LeetCodeQuestions
-My attempts for LeetCode questions
+# CodeGrind
+My attempts for LeetCode and HackerRank questions
